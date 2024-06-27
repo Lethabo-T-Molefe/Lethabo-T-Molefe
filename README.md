@@ -9,7 +9,7 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 - 🎓 I'm currently pursuing my Diploma in Computer Science.
 - 💻 I'm passionate about software development, particularly in database, Java and Python development.
 - 🌱 I'm constantly learning and exploring new technologies.
-- 📫 You can reach me via [Email: lethabomolefe69@gmail.com] and [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238)).
+- 📫 You can reach me via [Email:](lethabomolefe69@gmail.com) and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
 ### Skills
 - **Programming Languages:** Java | Python | Kotlin
