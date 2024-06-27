@@ -57,7 +57,7 @@ Here are two of the recent projects I've worked on (more projects under my repos
 #### Foodie Pedia
 **Brief Description:** Foodie Pedia is a recipe generator web application designed using openai API to create an engaging and informative platform for food enthusiasts. It allows users to explore, manage, and share recipes. Users can also maintain personal ingredient inventories, track their usage, and generate reports on the most commonly used ingredients and recipes. Foodie Pedia aims to enhance the culinary experience by providing a comprehensive tool for recipe management and food discovery.
 ### Get in Touch
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
+- **LinkedIn:** [Lethabo Molefe](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 - **Email:** lethabomolefe69@gmail.com 
 
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
