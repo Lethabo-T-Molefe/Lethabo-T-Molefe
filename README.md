@@ -12,12 +12,29 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 - 📫 You can reach me via [Email](lethabomolefe69@gmail.com) and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
 ### Skills
-- **Programming Languages:** Java, Python, Kotlin
-- **Web Development:** HTML, CSS, JavaScript
-- **Frameworks:**  Angular, Django, Spring Boot, Android Jetpack Compose
-- **Databases:** SQL, MongoDB, PL/SQL
-- **Version Control:** GitHub
-- **Other:** GlassFish, Linux Bash
+- **Programming Languages:**
+  - Java
+  - Python
+  - Kotlin
+- **Web Development:**
+  - HTML
+  - CSS
+  - JavaScript
+- **Frameworks:**
+  - Angular
+  - Django
+  - Spring Boot
+  - Android Jetpack Compose
+- **Databases:**
+  - SQL
+  - MongoDB
+  - PL/SQL
+- **Version Control:**
+  - GitHub
+- **Other:**
+  - GlassFish
+  - Linux Bash
+
 
 ### 🧰 Language and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
