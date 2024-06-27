@@ -1,14 +1,52 @@
-# Hi there 👋, I'm Lethabo Tshegofatso Molefe
+# Lethabo T Molefe 💯
+## Code Maestro (Software Developer)
 
-- 👋 Hi, I’m @Lethabo-T-Molefe, a dedicated Computer Science student at Tshwane University of Technology, currently pursuing a Diploma in Computer Science. 
+Welcome to my GitHub profile! I'm Lethabo Tshegofatso Molefe, a dedicated Computer Science student at Tshwane University of Technology, currently pursuing a Diploma in Computer Science.
 
-- 👀 I’m interested in innovative technology, software development, data science, and contributing to projects that push the boundaries of what's possible with technology.
+### 👤 About Me
+I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane University of Technology. Skilled in SQL, Java, and Python, with a solid foundation in programming and software engineering. My roles as a Junior Facilitator and tutor have honed my leadership and problem-solving abilities. I thrive in innovative environments and am committed to excellence.
 
-- 🌱 I’m currently learning advanced algorithms, machine learning, and cloud computing. I am continuously expanding my SQL, Java, and Python knowledge to develop robust and efficient software solutions.
+- 🎓 I'm currently pursuing my Diploma in Computer Science.
+- 💻 I'm passionate about software development, particularly in database, Java and Python development.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 📫 You can reach me via [Email: lethabomolefe69@gmail.com] and [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238)).
 
-- 💞️ I’m looking to collaborate on open-source projects, innovative tech solutions, and educational initiatives. I believe in the power of teamwork and am always eager to work with others to create impactful projects.
+### Skills
+- **Programming Languages:** Java | Python | Kotlin
+- **Web Development:** HTML | CSS | JS
+- **Frameworks:**  Angular | Django | Spring Boot | Android Jetpack Compose
+- **Databases:** SQL | MongoDB | PL/SQL
+- **Version Control:** GitHub
+- **Other:** GlassFish | Linux Bash
 
-- 📫 How to reach me: You can reach me via email at lethabomolefe69@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
+### 🧰 Language and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-- ⚡ Fun fact: When I'm not coding, I love solving puzzles and exploring art galleries and museums. I have a knack for finding creative solutions to complex problems and enjoy engaging in activities that challenge my analytical skills.
+### 🚀 Projects
+Here are two of the recent projects I've worked on (more projects under my repository):
 
+#### E-Commerce Website: Versity Trove
+**Brief Description:** Versity Trove is a platform designed to facilitate safe and reliable transactions among university students. The website provides a secure environment for students to buy and sell goods and services within their university community.
+
+#### Foodie Pedia
+**Brief Description:** Foodie Pedia is a recipe generator web application designed using openai API to create an engaging and informative platform for food enthusiasts. It allows users to explore, manage, and share recipes. Users can also maintain personal ingredient inventories, track their usage, and generate reports on the most commonly used ingredients and recipes. Foodie Pedia aims to enhance the culinary experience by providing a comprehensive tool for recipe management and food discovery.
+### Get in Touch
+- **LinkedIn:** [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238)).
+- **Email:** [lethabomolefe69@gmail.com] 
+
+Feel free to connect with me! I'm always open to collaboration and new opportunities.
+
+### 📊 GitHub Stats
+![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lethabo-T-Molefe&show_icons=true&theme=radical)
+
+### 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&layout=compact&theme=radical)
