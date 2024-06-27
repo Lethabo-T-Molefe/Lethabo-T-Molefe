@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on open-source projects, innovative tech solutions, and educational initiatives. I believe in the power of teamwork and am always eager to work with others to create impactful projects.
 
-- 📫 How to reach me: You can reach me via email at lethabo.molefe@example.com (replace with your actual email) or connect with me on [LinkedIn](https://www.linkedin.com) (replace with your actual LinkedIn profile).
+- 📫 How to reach me: You can reach me via email at lethabomolefe69@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
 -⚡ Fun fact: When I'm not coding, I love solving puzzles and exploring art galleries and museums. I have a knack for finding creative solutions to complex problems and enjoy engaging in activities that challenge my analytical skills.
 
