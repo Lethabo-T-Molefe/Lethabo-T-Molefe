@@ -10,5 +10,5 @@
 
 - 📫 How to reach me: You can reach me via email at lethabomolefe69@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
--⚡ Fun fact: When I'm not coding, I love solving puzzles and exploring art galleries and museums. I have a knack for finding creative solutions to complex problems and enjoy engaging in activities that challenge my analytical skills.
+- ⚡ Fun fact: When I'm not coding, I love solving puzzles and exploring art galleries and museums. I have a knack for finding creative solutions to complex problems and enjoy engaging in activities that challenge my analytical skills.
 
