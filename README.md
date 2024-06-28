@@ -11,11 +11,7 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 - 🌱 I'm constantly learning and exploring new technologies.
 - 📫 You can reach me via Email: lethabomolefe69@gmail.com and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
-### Skills
-
-<div style="display: flex;">
-
-<div style="flex: 1; margin-right: 20px;">
+## Skills
 
 - **Programming Languages:**
   - Java
@@ -30,11 +26,6 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
   - Django
   - Spring Boot
   - Android Jetpack Compose
-
-</div>
-
-<div style="flex: 1;">
-
 - **Databases:**
   - SQL
   - MongoDB
@@ -44,10 +35,6 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 - **Other:**
   - GlassFish
   - Linux Bash
-
-</div>
-
-</div>
 
 
 
