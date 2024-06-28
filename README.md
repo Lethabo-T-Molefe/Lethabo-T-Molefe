@@ -11,7 +11,7 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 - 🌱 I'm constantly learning and exploring new technologies.
 - 📫 You can reach me via Email: lethabomolefe69@gmail.com and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 
-### Skills
+## Skills
 - **Programming Languages:**
   - Java
   - Python
@@ -36,7 +36,7 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
   - Linux Bash
 
 
-### 🧰 Language and Tools
+## 🧰 Language and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -48,7 +48,7 @@ I’m Lethabo Tshegofatso Molefe, a Computer Science student at Tshwane Universi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🚀 Projects
+## 🚀 Projects
 Here are two of the recent projects I've worked on (more projects under my repository):
 
 #### E-Commerce Website: Versity Trove
@@ -56,11 +56,11 @@ Here are two of the recent projects I've worked on (more projects under my repos
 
 #### Foodie Pedia
 **Brief Description:** Foodie Pedia is a recipe generator web application designed using openai API to create an engaging and informative platform for food enthusiasts. It allows users to explore, manage, and share recipes. Users can also maintain personal ingredient inventories, track their usage, and generate reports on the most commonly used ingredients and recipes. Foodie Pedia aims to enhance the culinary experience by providing a comprehensive tool for recipe management and food discovery.
-### Get in Touch
+## Get in Touch
 - **LinkedIn:** [Lethabo Molefe](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 - **Email:** lethabomolefe69@gmail.com 
 
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
 
-### 🔝 Top Languages
+## 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&layout=compact&theme=radical)
