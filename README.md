@@ -58,11 +58,11 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 ## 🚀 Projects
 Here are two of the recent projects I've worked on (more projects under my repository):
 
-#### E-Commerce Website: Versity Trove
+#### [E-Commerce Website: Versity Trove](https://github.com/Lethabo-T-Molefe/Varsity-Trove-E-Commerce-Web-Application.git)
 **Brief Description:** Versity Trove is a platform designed to facilitate safe and reliable transactions among university students. The website provides a secure environment for students to buy and sell goods and services within their university community.
 
-#### Foodie Pedia
-**Brief Description:** Foodie Pedia is a recipe generator web application designed using openai API to create an engaging and informative platform for food enthusiasts. It allows users to explore, manage, and share recipes. Users can also maintain personal ingredient inventories, track their usage, and generate reports on the most commonly used ingredients and recipes. Foodie Pedia aims to enhance the culinary experience by providing a comprehensive tool for recipe management and food discovery.
+#### [Recipe Generator System: Foodie Pedia](https://github.com/Lethabo-T-Molefe/FoodiePedia.git)
+**Brief Description:** Foodie Pedia is a recipe generator web application designed using Openai API to create an engaging and informative platform for food enthusiasts. It allows users to explore, manage, and share recipes. Users can also maintain personal ingredient inventories, track their usage, and generate reports on the most commonly used ingredients and recipes. Foodie Pedia aims to enhance the culinary experience by providing a comprehensive tool for recipe management and food discovery.
 ## Get in Touch
 - **LinkedIn:** [Lethabo Molefe](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
 - **Email:** lethabomolefe69@gmail.com 
