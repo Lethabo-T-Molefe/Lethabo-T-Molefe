@@ -1,4 +1,4 @@
-7# Lethabo T Molefe 💯
+# Lethabo T Molefe 💯
 ## Code Maestro (Software Developer)
 
 Welcome to my GitHub profile! I'm Lethabo Tshegofatso Molefe, a dedicated Computer Science student at Tshwane University of Technology, currently pursuing a Diploma in Computer Science.
