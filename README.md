@@ -70,6 +70,8 @@ Here's the updated list with PHP, Italian, and Bootstrap removed and Spring Boot
 <img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/database/database-original.svg" />
 <img align= "left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+
+
 ## 🚀 Projects
 Here are two of the recent projects I've worked on (more projects under my repository):
 
