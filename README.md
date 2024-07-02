@@ -53,7 +53,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
   <img align= "left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align= "left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 </p>
-
+<p></p>
 
 ## 🚀 Projects
 Here are two of the recent projects I've worked on (more projects under my repository):
