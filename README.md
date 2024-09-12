@@ -14,7 +14,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 ## Skills
 
 
-<table>
+<table style="color:green;">
   <tr>
     <td>Hello</td>
     <td>World</td>
