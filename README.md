@@ -107,5 +107,6 @@ Here are two of the recent projects I've worked on (more projects under my repos
 
 Feel free to connect with me! I'm always open to collaboration and new opportunities.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&layout=compact&theme=radical)
