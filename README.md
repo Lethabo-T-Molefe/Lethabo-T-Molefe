@@ -19,7 +19,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     <td><p>
       
     
-      - **Programming Languages:**
+- **Programming Languages:**
   - Java
   - Python
   - Kotlin
