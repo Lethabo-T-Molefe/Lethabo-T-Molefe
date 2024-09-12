@@ -10,6 +10,8 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 - 💻 I'm passionate about software development, particularly in database, Java and Python development.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 📫 You can reach me via Email: lethabomolefe69@gmail.com and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Just_chopa) 
+
 
 ## Skills
 
