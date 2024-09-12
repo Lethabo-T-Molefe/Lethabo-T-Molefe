@@ -110,4 +110,4 @@ Feel free to connect with me! I'm always open to collaboration and new opportuni
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&layout=compact&theme=radical)
-![](https://github-contributor-stats.vercel.app/api?username=Lethabo-T-Molefe&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Just-Chopa&limit=5&theme=radical&combine_all_yearly_contributions=true)
