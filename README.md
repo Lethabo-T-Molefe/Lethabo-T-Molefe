@@ -10,7 +10,6 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 - 💻 I'm passionate about software development, particularly in database, Java and Python development.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 📫 You can reach me via Email: lethabomolefe69@gmail.com and [LinkedIn](https://www.linkedin.com/in/lethabo-molefe-9bb94b238).
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Just_chopa) 
 
 
 ## Skills
@@ -112,4 +111,7 @@ Feel free to connect with me! I'm always open to collaboration and new opportuni
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&layout=compact&theme=radical)
-![](https://github-contributor-stats.vercel.app/api?username=Just-Chopa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Lethabo-T-Molefe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lethabo-T-Molefe&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lethabo-T-Molefe&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
