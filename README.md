@@ -15,51 +15,51 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 
 
 <table border="0">
-        <tr>
-            <td>
-                <p>
-    - **Programming Languages:**
-    - Java
-    - Python
-    - Kotlin</p>
-            </td>
-            <td>
-                <p>
-                    - **Web Development:**
-                    - HTML
-                    - CSS
-                    - JavaScript
-                </p>
-            </td>
-            <td>
-                <p>
-                    - **Frameworks:**
-                    - Angular
-                    - Django
-                    - Spring Boot
-                    - Android Jetpack Compose
-                    - React.js
-                </p>
-            </td>
-            <td>
-                <p>
-                    - **Databases:**
-                    - SQL
-                    - MongoDB
-                    - PL/SQL
-                </p>
-            </td>
-            <td>
-                <p>
-                    - **Version Control:**
-                    - GitHub
-                    - **Other:**
-                    - GlassFish
-                    - Linux Bash
-                </p>
-            </td>
-        </tr>
-    </table>
+<tr>
+<td>
+<p>
+- **Programming Languages:**
+- Java
+- Python
+- Kotlin</p>
+</td>
+<td>
+<p>
+- **Web Development:**
+- HTML
+- CSS
+- JavaScript
+</p>
+</td>
+<td>
+<p>
+- **Frameworks:**
+- Angular
+- Django
+- Spring Boot
+- Android Jetpack Compose
+- React.js
+</p>
+</td>
+<td>
+<p>
+- **Databases:**
+- SQL
+- MongoDB
+- PL/SQL
+</p>
+</td>
+<td>
+<p>
+- **Version Control:**
+- GitHub
+- **Other:**
+- GlassFish
+- Linux Bash
+</p>
+</td>
+</tr>
+</table>
 
 
 
