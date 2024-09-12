@@ -20,6 +20,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     <td><p><strong>Web Development:</strong></p></td>
     <td><p><strong>Frameworks:</strong></p></td>
     <td><p><strong>Databases:</strong></p></td>
+    <td><p><strong>Version Control:</strong></p></td>
   </tr>
   <tr>
     <td> 
@@ -53,7 +54,6 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
       </ul>
     </td>
     <td>
-      <p><strong>Version Control:</strong></p>
       <ul>
         <li>GitHub</li>
       </ul>
