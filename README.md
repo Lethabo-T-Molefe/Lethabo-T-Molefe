@@ -21,6 +21,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     <td><p><strong>Frameworks:</strong></p></td>
     <td><p><strong>Databases:</strong></p></td>
     <td><p><strong>Version Control:</strong></p></td>
+    <td><p><strong>Other:</strong></p></td>
   </tr>
   <tr>
     <td> 
@@ -57,7 +58,8 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
       <ul>
         <li>GitHub</li>
       </ul>
-      <p><strong>Other:</strong></p>
+    </td>
+    <td>
       <ul>
         <li>GlassFish</li>
         <li>Linux Bash</li>
