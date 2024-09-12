@@ -41,7 +41,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     </td>
     <td>
       <ul>
-        <li>Angular</li>
+        <li>Node.js</li>
         <li>Django</li>
         <li>Spring Boot</li>
         <li>Android Jetpack Compose</li>
