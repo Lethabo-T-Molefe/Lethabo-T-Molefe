@@ -16,7 +16,9 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 
 <table>
   <tr>
-    <td>
+    <td><p>
+      
+    
       - **Programming Languages:**
   - Java
   - Python
@@ -29,7 +31,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
   - Angular
   - Django
   - Spring Boot
-  - Android Jetpack Compose
+  - Android Jetpack Compose</p>
     </td>
     <td>
       - **Databases:**
