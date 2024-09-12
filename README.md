@@ -16,8 +16,13 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 
 <table border="0">
   <tr>
-    <td>
-      <p><strong>Programming Languages:</strong></p>
+    <td><p><strong>Programming Languages:</strong></p></td>
+    <td><p><strong>Web Development:</strong></p></td>
+    <td><p><strong>Frameworks:</strong></p></td>
+    <td><p><strong>Databases:</strong></p></td>
+  </tr>
+  <tr>
+    <td> 
       <ul>
         <li>Java</li>
         <li>Python</li>
@@ -25,7 +30,6 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
       </ul>
     </td>
     <td>
-      <p><strong>Web Development:</strong></p>
       <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -33,7 +37,6 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
       </ul>
     </td>
     <td>
-      <p><strong>Frameworks:</strong></p>
       <ul>
         <li>Angular</li>
         <li>Django</li>
@@ -43,7 +46,6 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
       </ul>
     </td>
     <td>
-      <p><strong>Databases:</strong></p>
       <ul>
         <li>SQL</li>
         <li>MongoDB</li>
