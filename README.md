@@ -62,7 +62,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     </td>
     <td>
       <ul>
-        <li>GlassFish</li>
+        <li>Apache Tomcat</li>
         <li>Linux Bash</li>
       </ul>
     </td>
