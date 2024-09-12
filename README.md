@@ -14,18 +14,10 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 ## Skills
 
 
-<table style="color:green;">
+<table>
   <tr>
-    <td>Hello</td>
-    <td>World</td>
-  </tr>
-  <tr>
-    <td>Top Right</td>
-    <td>Bottom Right</td>
-  </tr>
-</table>
-
-- **Programming Languages:**
+    <td>
+      - **Programming Languages:**
   - Java
   - Python
   - Kotlin
@@ -38,7 +30,9 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
   - Django
   - Spring Boot
   - Android Jetpack Compose
-- **Databases:**
+    </td>
+    <td>
+      - **Databases:**
   - SQL
   - MongoDB
   - PL/SQL
@@ -47,6 +41,12 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 - **Other:**
   - GlassFish
   - Linux Bash
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
