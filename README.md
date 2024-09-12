@@ -27,14 +27,16 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
   - HTML
   - CSS
   - JavaScript
+</td></p>
+<td><p>
 - **Frameworks:**
   - Angular
   - Django
   - Spring Boot
   - Android Jetpack Compose</p>
     </td>
-    <td>
-      - **Databases:**
+    <td><p>
+- **Databases:**
   - SQL
   - MongoDB
   - PL/SQL
@@ -43,7 +45,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
 - **Other:**
   - GlassFish
   - Linux Bash
-    </td>
+    </p></td>
   </tr>
 </table>
 
