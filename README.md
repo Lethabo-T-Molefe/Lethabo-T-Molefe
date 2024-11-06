@@ -45,7 +45,8 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
         <li>Django</li>
         <li>Spring Boot</li>
         <li>Android Jetpack Compose</li>
-        <li>React.js</li>
+        <li>React.JS</li>
+        <li>React Native</li>
       </ul>
     </td>
     <td>
