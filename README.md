@@ -64,7 +64,7 @@ I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology.
     <td>
       <ul>
         <li>Apache Tomcat</li>
-        <li>Linux Bash</li>
+        <li>VS Code</li>
       </ul>
     </td>
   </tr>
