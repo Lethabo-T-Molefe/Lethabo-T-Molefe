@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Lethabo Tshegofatso Molefe, a dedicated Comput
 ### 👤 About Me
 I’m Lethabo Tshegofatso Molefe, a student at Tshwane University of Technology. Skilled in SQL, Java, and Python, with a solid foundation in programming and software engineering. My roles as a Junior Facilitator and a Java tutor have honed my leadership and problem-solving abilities. I thrive in innovative environments and am committed to excellence.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7d169572-0ece-4a16-81f5-78c2fc26331b/deploy-status)](https://app.netlify.com/projects/tshwanevarsityhackathon/deploys)
 
 - 🎓 I'm currently pursuing my Diploma in Computer Science.
 - 💻 I'm passionate about software development, particularly in database, Java and Python development.
